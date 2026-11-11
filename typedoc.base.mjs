@@ -55,6 +55,7 @@ const CUSTOM_BLOCK_TAGS = [
   '@exampleSql',
   '@exampleDescription',
   '@reference',
+  '@stability',
 ]
 
 export default {

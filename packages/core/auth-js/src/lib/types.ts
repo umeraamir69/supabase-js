@@ -1436,6 +1436,8 @@ export interface AuthMFARecoveryCodesApi {
    *
    * @experimental
    *
+   * @stability early-access `auth.experimental.recoveryCodes: true` only enables the client; recovery codes must also be enabled on your project's Supabase Auth server.
+   *
    * @category Auth
    * @subcategory Auth MFA Recovery Codes
    *
@@ -1472,6 +1474,8 @@ export interface AuthMFARecoveryCodesApi {
    * Requires `auth.experimental.recoveryCodes: true`.
    *
    * @experimental
+   *
+   * @stability early-access `auth.experimental.recoveryCodes: true` only enables the client; recovery codes must also be enabled on your project's Supabase Auth server.
    *
    * @category Auth
    * @subcategory Auth MFA Recovery Codes
@@ -1524,6 +1528,8 @@ export interface AuthMFARecoveryCodesApi {
    * Requires `auth.experimental.recoveryCodes: true`.
    *
    * @experimental
+   *
+   * @stability early-access `auth.experimental.recoveryCodes: true` only enables the client; recovery codes must also be enabled on your project's Supabase Auth server.
    *
    * @category Auth
    * @subcategory Auth MFA Recovery Codes
@@ -1591,6 +1597,8 @@ export interface AuthMFARecoveryCodesApi {
    *
    * @experimental
    *
+   * @stability early-access `auth.experimental.recoveryCodes: true` only enables the client; recovery codes must also be enabled on your project's Supabase Auth server.
+   *
    * @category Auth
    * @subcategory Auth MFA Recovery Codes
    *
@@ -1632,6 +1640,8 @@ export interface AuthMFARecoveryCodesApi {
    * Requires `auth.experimental.recoveryCodes: true`.
    *
    * @experimental
+   *
+   * @stability early-access `auth.experimental.recoveryCodes: true` only enables the client; recovery codes must also be enabled on your project's Supabase Auth server.
    *
    * @category Auth
    * @subcategory Auth MFA Recovery Codes
